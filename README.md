@@ -85,7 +85,6 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on Revenue
 
 # Tools & Technologies Used
 
-* MySQL Server
 * MySQL Workbench
 * Power BI Desktop
 * SQL
